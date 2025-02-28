@@ -1,4 +1,3 @@
-## NOTE : Run the backend file(Flask+Gemini) locally, as i haven't deployed it. 
 
 # Automated Data Extraction and Invoice Management Application
 
