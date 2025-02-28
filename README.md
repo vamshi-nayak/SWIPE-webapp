@@ -55,8 +55,5 @@ The application dynamically handles missing data, highlighting fields that requi
 - **Frontend**: React.js, MUI, Redux for state management.
 - **Backend**: Flask (for the AI model integration).
 - **AI Integration**: Developed a generic AI solution for data extraction.
-- **Deployment**: Hosted the app on [Vercel](https://swipe-gray.vercel.app) for easy access.
 - **Version Control**: All code is versioned on GitHub.
 
-## Deployment
-The application is live and can be accessed at: [https://swipe-gray.vercel.app/](#)
